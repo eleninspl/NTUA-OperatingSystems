@@ -1,8 +1,7 @@
-# Operating Systems Lab Summary
+# Operating Systems Lab 
 
 ## Course Information
 - **Course Title:** Operating Systems  
-- **Institution:** NTUA  
 - **Semester:** 6th (Flow Y)  
 - **Instructor:** Panayiotis Tsanakas  
 
